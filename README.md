@@ -3,7 +3,7 @@
 
 <p>This example is to demonstrate, how to upload image files using <b>Spring MVC</b> and <b>HTML</b> with <b>AJAX</b></p>
 
-<p>Clone the project, and open both <b>FrontEnd</b> and <b>BackEnd</b> using <span style="color:green">IntelliJIDEA.</span></p>
+<p>Clone the project, and open both <b>FrontEnd</b> and <b>BackEnd</b> using <b>IntelliJIDEA.</b></p>
 
 <img src="assets/ss.png" width="70%">
 <hr>
@@ -12,4 +12,4 @@
 
 Copyright © 2022 Sanu Vithanage. All rights reserved. Licensed under the [MIT LICENSE](LICENSE).
 
-<p>Hope you will find this usefull oneday :wink:</p>
+<p><b>Hope you will find this usefull oneday..!</b> :wink:</p>
