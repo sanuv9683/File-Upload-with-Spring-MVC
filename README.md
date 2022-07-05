@@ -1,10 +1,10 @@
-# **Image Uploading**
-## Spring MVC & HTML
+<h1>Image Uploading</h1>
+<h3>Spring MVC & HTML</h3>
 
-> This example is to demonstrate, how to upload image files using Spring MVC and HTML with AJAX
+<p>This example is to demonstrate, how to upload image files using Spring MVC and HTML with AJAX</p>
 
-> Clone the project, and open both FrontEnd and BackEnd using Intelij Idea.
+<p>Clone the project, and open both FrontEnd and BackEnd using Intelij Idea.</p>
 
 <img src="assets/ss.png" width="50%">
 
-> Hope you will find this usefull oneday ;-)
+<p>Hope you will find this usefull oneday ;-)</p>
