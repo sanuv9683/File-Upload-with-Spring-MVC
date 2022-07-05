@@ -7,4 +7,9 @@
 
 <img src="assets/ss.png" width="70%">
 <hr>
-<p>Hope you will find this usefull oneday ;-)</p>
+
+### LICENSE
+
+Copyright © 2022 Sanu Vithanage. All rights reserved. Licensed under the [MIT LICENSE](LICENSE).
+
+<p>Hope you will find this usefull oneday :wink:</p>
