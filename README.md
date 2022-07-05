@@ -12,4 +12,4 @@
 
 Copyright © 2022 Sanu Vithanage. All rights reserved. Licensed under the [MIT LICENSE](LICENSE).
 
-<p><b>Hope you will find this usefull oneday..!</b> :wink:</p>
+<p><b>Hope you will find this useful oneday..!</b> :wink:</p>
