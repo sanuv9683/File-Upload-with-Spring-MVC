@@ -5,6 +5,6 @@
 
 > Clone the project, and open both FrontEnd and BackEnd using Intelij Idea.
 
-![This is an image](assets/ss.png)
+<img src="assets/ss.png" width="50%">
 
 > Hope you will find this usefull oneday ;-)
