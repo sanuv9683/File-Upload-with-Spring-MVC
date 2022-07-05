@@ -5,6 +5,6 @@
 
 <p>Clone the project, and open both FrontEnd and BackEnd using Intelij Idea.</p>
 
-<img src="assets/ss.png" width="50%">
+<img src="assets/ss.png" width="70%">
 
 <p>Hope you will find this usefull oneday ;-)</p>
